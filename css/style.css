@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: #323639;
+    font-family: 'Hachi Maru Pop', cursive;
+    font-family: 'Roboto', sans-serif;
+
+}
+.logo-left img{
+    width: 500px;
+
+}
+.winter-right img{
+    width: 400px;
+}
+.find-the-perfect img{
+    width:550px;
+    margin-left: 80px;
+}
+.woman-jacket img, .mens-jacket img{
+    width: 300px;
+    height: 350px;
+    background-color: lightgray;
+    border-radius: 20px
+}
+.text-color{
+    color:rgb(250, 190, 76);
+}
+.first-part{
+    background-color: rgb(255, 251, 240);
+}
+body h1{
+    font-size: 50px;
+}
+.card-section{
+    border: 0;
+}
+.find-left-left {
+    
+    border-radius: 7px;
+    margin: 10px;
+}
+.Bonus-part img{
+    width:400px;
+    height: 600px;
+}
+footer p{
+    text-align: center;
+    color:lightgray;
+    background-color: #FFFFFF;
+}
+.last-half{
+    background-color: #FFFFFF;
+}
+@media (max-width:992px){
+    
+}
+
+
